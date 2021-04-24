@@ -2,14 +2,14 @@
 
 functino
 
-determinant of the matrix
+determinant of the matrix <br>
 transpose of the matrix
 Find the inverse of the matrix
 Add a scalar to matrix 
 Multiply the matrix with a scalar
 
 Multiply the first matrix with the second
-Multiply the second matrix with first 
+Multiply the second matrix with first Cancel changes
 Add both matrices 
 Subtract the first matrix from second 
 Subtract the second matrix from the first 
