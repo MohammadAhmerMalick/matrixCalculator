@@ -1,0 +1,52 @@
+* {
+  outline: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+header {
+  background-color: #007acc;
+  color: white;
+  margin-bottom: 20px;
+  padding: 5px 0 30px;
+}
+
+header h1 {
+  text-transform: uppercase;
+}
+
+@media screen and (max-width: 576px) {
+  header h1 {
+    font-size: 30px;
+  }
+}
+
+header p {
+  letter-spacing: 2px;
+}
+
+#matrix-1,
+#matrix-2 {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: (1fr)[5];
+      grid-template-columns: repeat(5, 1fr);
+  grid-gap: 5px;
+}
+
+#matrix-1 input,
+#matrix-2 input {
+  width: 100%;
+}
+
+#single-martix-actions .js-target,
+#multiple-martix-actions .js-target {
+  display: block;
+}
+
+#single-martix-actions .js-target.matrix,
+#multiple-martix-actions .js-target.matrix {
+  display: inline-block;
+  border-left: 1px solid black;
+  border-right: 1px solid black;
+  border-radius: 5px;
+}
+/*# sourceMappingURL=index.css.map */
