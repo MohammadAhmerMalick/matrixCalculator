@@ -1,18 +1,18 @@
 # Matrix Calculator
 
-functino
+<h2>Functions</h2>
 
-determinant of the matrix <br>
-transpose of the matrix
-Find the inverse of the matrix
-Add a scalar to matrix 
-Multiply the matrix with a scalar
+<br>determinant of the matrix
+<br>transpose of the matrix
+<br>Find the inverse of the matrix
+<br>Add a scalar to matrix 
+<br>Multiply the matrix with a scalar
+<br>
+<br>Multiply the first matrix with the second
+<br>Multiply the second matrix with first Cancel changes
+<br>Add both matrices 
+<br>Subtract the first matrix from second 
+<br>Subtract the second matrix from the first 
 
-Multiply the first matrix with the second
-Multiply the second matrix with first Cancel changes
-Add both matrices 
-Subtract the first matrix from second 
-Subtract the second matrix from the first 
-
-requiremests:
+<h5>Requiremests:</h5>
 you will need to run it on server like VSCode live server
